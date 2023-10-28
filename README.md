@@ -13,6 +13,4 @@ This repository contains three datasets for microplastic image analysis and one 
 __Citations:__
 Please use the following citation when using the data, methods or results of this work:
 
-Mukherjee, F., Shi, A., Wang, X., You, F., & Abbott, N. L. (2023). Liquid Crystals as Multifunctional Interfaces for Trapping and Characterizing Colloidal Microplastics. Small, 2207802.
-
 Shi, A., Mukherjee, F., Wang, X., You, F., & Abbott, N. L. An “All-in-one” Deep Learning Framework for Multi-feature Detection and Tracking of Microparticles in Quasi-3D. Submitted to Nature Machine Intelligence.
