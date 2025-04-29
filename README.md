@@ -15,4 +15,4 @@ This repository contains code exampls and four image/video datasets for micropla
 __Citations:__
 Please use the following citation when using the data, methods or results of this work:
 
-Shi, A., Mukherjee, F., Wang, X., You, F., & Abbott, N. L. An “All-in-one” Deep Learning Framework for Multi-feature Detection and Tracking of Microparticles in Quasi-3D. Submitted to Science Advances.
+Mukherjee, F., Shi, A., You, F., & Abbott, N. L. Liquid Crystal-Driven Interfacial Organization of Colloids: Principles for Characterization of Complex Mixtures of Microplastics. Submitted to Science Advances.
