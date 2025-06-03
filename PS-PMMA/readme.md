@@ -6,9 +6,13 @@ PS-PMMA Project includes essential image datasets and code for analyzing PS-PMMA
 2. Composition: PS, PS75%/PMMA25%, PS50%/PMMA50%, PS25%/PMMA75%, and PMMA
 3. UV Treatment Time: 0, 3, 5, and 10 days
 4. NOM Presence: Yes (NOM added) or No (no NOM)
+
 The repository provides training code for both single-label and multi-label classification using the deepPolyNet model.
+
 Additionally, it includes:
+
 a. Grad-CAM++ feature importance analysis for model interpretation
+
 b. Morphology-property feature analysis scripts, as illustrated and discussed in Figure 2 of the accompanying documentation or manuscript.
 
 
